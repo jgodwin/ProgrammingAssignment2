@@ -1,5 +1,9 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+# Compute the inverse of a matrix, where possible return the cached
+# inverse if it has already been computed.
+# To use: cached <- makeCacheMatrix(matrix)
+#         inverse <- cacheSolve(cached)
 
 ## Write a short comment describing this function
 # Generates the caching mechanism of a given matrix, x.
